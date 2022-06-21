@@ -1,3 +1,7 @@
 fetch
 2 fetch
+<<<<<<< HEAD
 4th fetch
+=======
+3fetch
+>>>>>>> origin/master
