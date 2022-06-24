@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 skjfdvblkjdbv;ksjdbv;ksjbis cherry pic
+=======
+s is cherry pic
+>>>>>>> 4d7b417 (cherrypic.txt)
 
