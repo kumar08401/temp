@@ -1,2 +1,14 @@
+<<<<<<< HEAD
 skjfdvblkjdbv;ksjdbv;ksjbis cherry pic
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+skjfdvblkjdbv;ksjdbv;ksjbis cherry pic
+=======
+s is cherry pic
+>>>>>>> 4d7b417 (cherrypic.txt)
+=======
+skjfdvblkjdbv;ksjdbv;ksjbis cherry pic
+>>>>>>> e53fb0a (cherrypic.txt)
+>>>>>>> dev
 
